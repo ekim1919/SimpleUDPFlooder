@@ -9,6 +9,14 @@ What are we using?
 Libnet 1.2 
 Documentation is at http://fossies.org/dox/libnet-libnet-1.2/
 
+Installing Libnet API
+=====================
+
+On Debian, I installed Libnet through
+```
+sudo apt-get install libnet1-dev
+```
+
 Basic Usage
 ===========
 

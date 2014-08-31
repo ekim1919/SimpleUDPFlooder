@@ -13,6 +13,7 @@ Basic Usage
 ===========
 
 The makefile will compile a executable called "sup" 
+```
 Usage: sup <Destination IP> <Destination UDP port> <Number of packets to create>
-
+```
 Root priviledes are required to open a raw socket. 
